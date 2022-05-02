@@ -1,0 +1,108 @@
+html {
+    scroll-behavior:smooth;
+  }
+
+body {
+    background-image: url("ting.gif");
+    background-size: cover;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    }
+
+h1 {font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 900%;
+    color: rgb(255, 0, 191);
+    text-shadow: 2px 2px #000000;
+}
+
+.Gameweekinfo
+{
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(165, 33, 158);
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: azure;
+    font-size: 200%
+}
+
+
+h2 {font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: rgb(255, 0, 191);
+    font-size: 650%;
+    text-shadow: 2px 2px #000000;
+}
+
+h3 {font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: rgb(255, 0, 191);
+    font-size: 650%;
+    text-shadow: 2px 2px #000000;
+}
+
+.rasego {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(165, 33, 158);
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: azure;
+    font-size: 200%;
+    }
+
+.rasegoinfo
+    {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: azure;
+    font-size: 200%;
+    margin: auto;
+
+    width: 90%;
+    border: 3px solid rgb(138, 0, 138);
+    background: rgba(0, 0, 0, 0.7);
+    }
+
+.gamejamaika {margin: auto;
+    width: 50%;
+    border: 3px solid rgb(165, 33, 158);
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: azure;
+    font-size: 200%;}
+
+
+.gamejaminfo {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    color: azure;
+    font-size: 200%;
+    margin: auto;
+    padding: 40px;
+    width: 90%;
+    border: 3px solid rgb(138, 0, 138);
+    background: rgba(0, 0, 0, 0.7);
+    }
+
+
+    .abc {
+        color: rgb(255, 0, 234);
+        text-align:center;
+        width: 100%;
+        padding: 90px;
+        font-size: 200%;
+    }
+    .abcd {
+        color: rgb(255, 0, 234);
+        display: block;
+        margin: auto;
+        font-size: 300%;
+        width: 50%;}
